@@ -45,6 +45,13 @@ git clone https://github.com/chenkang455/TRMD
 cd TRMD
 pip install -r requirements.txt
 ```
+
+## 😊 Quick Start
+We provide a quick evaluation of our method in `event_deblur.py` for event-based motion deblurring, run
+```
+python event_deblur.py
+```
+
 ## 🕶 Download datasets
 You can download our trained models, synthesized dataset GOPRO and real event dataset REBlur (from [EFNet](https://github.com/AHupuJR/EFNet)) from [Baidu Netdisk](https://pan.baidu.com/s/1advngktF3hiHzLO_fs6E0w?pwd=e1uc) with the password ```eluc```. 
 
